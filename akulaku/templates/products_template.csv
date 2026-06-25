@@ -1,0 +1,4 @@
+name,category_id,price,stock,description,image_urls
+"Produk Contoh 1","12345","150000","100","Deskripsi produk contoh 1","https://example.com/img1.jpg,https://example.com/img2.jpg"
+"Produk Contoh 2","12345","250000","50","Deskripsi produk contoh 2","https://example.com/img3.jpg"
+"Produk Contoh 3","12345","75000","200","Deskripsi produk contoh 3","https://example.com/img4.jpg,https://example.com/img5.jpg"

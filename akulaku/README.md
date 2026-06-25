@@ -187,4 +187,3 @@ MIT License
 
 - Developer Portal: https://developer.akulaku.com
 - Issues: https://github.com/lo/akulaku-dropship/issues
-
